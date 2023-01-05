@@ -1,9 +1,6 @@
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/kgsherman/Witcher-Kings-CKIII/main/thumbnail_inverted.png" alt="Witcher Kings Logo">
+  <img src="https://raw.githubusercontent.com/kgsherman/Witcher-Kings-CKIII/main/thumbnail_inverted.png" alt="Witcher Kings Logo">
 </p>
-
-<h1 align="center">Witcher Kings for CKIII</h1>
-
 
 ## Installation
 
